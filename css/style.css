@@ -33,5 +33,6 @@ a:hover {
 }
 
 #footer {
-  align: right;
+  position: absolute;
+  right: 0;
 }
