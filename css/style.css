@@ -28,9 +28,7 @@ body {
   margin: 0 auto;
 }
 
-h1 {
-  font-size: 75px;
-}
+
 
 h2 {
   font-family: 'Times New Roman', serif;
@@ -39,6 +37,7 @@ h2 {
 
 h1 {
   color: rgb(156, 172, 166);
+  font-size: 75px;
 }
 
 img {
