@@ -23,6 +23,7 @@ body {
 /* Write all remaining styles here  rbg(177,185,182);*/
 
 .wrapper {
+  position: relative;
   width: 960px;
   margin: 0 auto;
 }
