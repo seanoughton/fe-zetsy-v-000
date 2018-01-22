@@ -21,3 +21,7 @@ body {
 }
 
 /* Write all remaining styles here */
+
+p {
+  color: rbg(177,185,182)
+}
