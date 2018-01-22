@@ -45,6 +45,6 @@ a:hover {
 
 #footer {
   position: absolute;
-  position: right;
+  right: 0;
 
 }
