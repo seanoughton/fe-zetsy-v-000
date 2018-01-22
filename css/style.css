@@ -31,3 +31,7 @@ a:hover {
   border-width: 5px;
   border-color: rgb(116,	125, 122);
 }
+
+#footer {
+  float: right;
+}
