@@ -32,8 +32,12 @@ h1 {
   font-size: 75px;
 }
 
+h2 {
+  font-family: 'Times New Roman', serif;
+}
+
 h1,h2 {
-  color: rgb(156, 172, 166); 
+  color: rgb(156, 172, 166);
 }
 
 img {
