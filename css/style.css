@@ -32,6 +32,12 @@ h1,h2 {
   color: rgb(177, 185, 182);
 }
 
+img {
+  border-style: solid;
+  border-width: 5px;
+  border-color: rgb(116,	125, 122);
+}
+
 /*
 a:hover {
   border-style: solid;
