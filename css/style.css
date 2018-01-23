@@ -74,7 +74,7 @@ header a:hover {
   text-decoration: underline;
 }
 
-#press-images {
+#press-images img{
   border: 5px #ccc solid;
   padding: 1px;
   position: relative;
