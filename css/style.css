@@ -89,7 +89,6 @@ header a:hover {
 
 
 #footer {
-  position: absolute;
-  right: 50px;
+  text-align: right;
 
 }
