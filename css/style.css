@@ -23,16 +23,18 @@ body {
 /* Write all remaining styles here */
 
 
+h1 {
+  color: rgb(156, 172, 166);
+  font-size: 80px;
+}
+
 h2 {
   font-family: 'Times New Roman', serif;
   color: rgb(114,	126	, 122);
   font-size: 32px;
 }
 
-h1 {
-  color: rgb(156, 172, 166);
-  font-size: 80px;
-}
+
 
 img {
   border-style: solid;
