@@ -69,6 +69,10 @@ header a:hover {
   border: 5px rgb(152, 173, 166) solid;
 }
 
+featured a {
+  color: ;
+  text-decoration: none;
+}
 
 #press-images img:hover {
   border-style: solid;
