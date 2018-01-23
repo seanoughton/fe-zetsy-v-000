@@ -75,6 +75,7 @@ header a:hover {
 }
 
 #press-images {
+  border: 5px #ccc solid;
   position: relative;
   margin-bottom: 40px;
 }
