@@ -78,16 +78,18 @@ header a:hover {
   text-decoration: underline;
 }
 
+#press-images {
+  position: relative;
+  margin-bottom: 40px;
+}
+
 #press-images img:hover {
   border-style: solid;
   border-width: 5px;
   border-color: rgb(116,	125, 122);
 }
 
-#press-images {
-  position: relative;
-  margin-bottom: 40px;
-}
+
 
 #footer {
   position: absolute;
