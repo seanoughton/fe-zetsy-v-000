@@ -78,7 +78,7 @@ header a:hover {
   border: 5px #ccc solid;
   padding: 1px;
   width: auto;
-  transition: border-color 1s ease;
+  transition: width 1s ease;
 
 }
 
