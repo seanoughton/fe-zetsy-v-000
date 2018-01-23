@@ -22,15 +22,6 @@ body {
 
 /* Write all remaining styles here  rbg(177,185,182);*/
 
-header a {
-	color: rgb(152,173,166);
-	text-decoration: none;
-}
-
-header a:hover {
-	color: rgb(111,127,122);
-}
-
 
 h2 {
   font-family: 'Times New Roman', serif;
@@ -48,6 +39,8 @@ img {
   border-width: 5px;
   border-color: rgb(156, 170, 165);
 }
+
+/*   SECTION STYLES */
 
 
 #press-images img:hover {
