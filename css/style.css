@@ -30,6 +30,7 @@ h1 {
   font-weight: normal;
   font-family: 'Baskerville', serif;
   color: rgb(156, 172, 166);
+  border-bottom: 1px solid #ccc;
 
 }
 
