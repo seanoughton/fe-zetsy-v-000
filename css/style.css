@@ -42,6 +42,15 @@ img {
 
 /*   SECTION STYLES */
 
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
+header a:hover {
+	color: rgb(111,127,122);
+}
+
 
 #press-images img:hover {
   border-style: solid;
